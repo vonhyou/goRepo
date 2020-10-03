@@ -1,3 +1,3 @@
 # goRepo
 
-This piece of code test Constants!
+This piece of code test VALUES!
