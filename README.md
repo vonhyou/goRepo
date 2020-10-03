@@ -1,3 +1,3 @@
 # goRepo
 
-Learning for Switch!
+Learning Switch!
