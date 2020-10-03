@@ -9,4 +9,9 @@ func main() {
 	fmt.Println(a + b)
 	c := 3.14
 	fmt.Println(c)
+
+	// Wrong way!
+	// var x float32, y int = 1.0, 233
+	x, y := 1.1, 233
+	fmt.Println(x, y)
 }
