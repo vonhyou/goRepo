@@ -1,3 +1,3 @@
 # goRepo
 
-Learning for loop!
+Learning for Switch!
