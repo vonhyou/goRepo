@@ -1,3 +1,3 @@
 # goRepo
 
-Learning Array!
+Learning Slice!
