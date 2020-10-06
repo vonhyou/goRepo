@@ -1,3 +1,3 @@
 # goRepo
 
-Learning Slice!
+Learning Map!
